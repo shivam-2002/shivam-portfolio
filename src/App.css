@@ -1,0 +1,112 @@
+.App {
+  background: url("assets/home/background.gif") fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  /*min-width: 100vw;*/
+  color: #FFFFFF;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.menu-column {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px;
+  width: 40px;
+  overflow: hidden;
+  transition: width 1s ease-in-out;
+  border-radius: 4px;
+  border: 1px solid #E8E8E8;
+  background: #FFF;
+  box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.25);
+
+  position: fixed;
+  top: 72px;
+  left: 8px;
+  z-index: 1;
+}
+
+.menu-column:hover {
+  width: 214px;
+}
+
+.menu-column > div {
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  gap: 8px;
+  align-self: stretch;
+  white-space: nowrap;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.icon-img {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}
+
+.menu-font {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  color: #101010;
+}
+
+.menu-column:hover > div > div {
+  opacity: 1;
+}
+
+.active-menu {
+  background: #1E3050;
+}
+
+.active-font {
+  color: #FFFFFF;
+}
+
+.main-ctn {
+  position: relative;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.header {
+  position: sticky !important;
+  top: 0;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: 'Poppins', sans-serif;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  z-index: 100;
+  background: #1E3050;
+  padding: 0 10px;
+}
+
+.ctn {
+  margin: 50px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+@media screen and (max-width: 500px){
+  .main-ctn {
+    width: 95%;
+  }
+  .menu-column {
+    display: none;
+  }
+}
+
+
