@@ -55,7 +55,7 @@ const Experience = () => {
                         icon={<img src={experienceAssets.hummingbird} style={{ width: '100%', height: '100%', borderRadius: '50%' }} />}
                     >
                         <h3 className="vertical-timeline-element-title">Associate Software Development Engineer</h3>
-                        <h4 className="vertical-timeline-element-subtitle company-name" >Jungle Works, Chandigarh</h4>
+                        <h4 className="vertical-timeline-element-subtitle company-name" >Humming Bird Web Solutions, Pune</h4>
                         <ul>
                             <li>Worked as a Magento developer, contributed in building and maintaining e-commerce websites.</li>
                         </ul>
@@ -88,7 +88,7 @@ const Experience = () => {
                         icon={<img src={experienceAssets.viewzen} style={{ width: '100%', height: '100%', borderRadius: '50%' }} />}
                     >
                         <h3 className="vertical-timeline-element-title">Software Development Engineer Intern</h3>
-                        <h4 className="vertical-timeline-element-subtitle company-name" >Jungle Works, Chandigarh</h4>
+                        <h4 className="vertical-timeline-element-subtitle company-name" >View Zen Labs Pvt. Ltd., Chennai</h4>
                         <ul>
                             <li>Contributed to the Data Form Builder project, delivering 5+ reusable components using Angular and NodeJS, improving developer productivity by 25%.</li>
                             <li>Showcased strong problem-solving skills by independently resolving 50+ reported bugs within project timelines.</li>

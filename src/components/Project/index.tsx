@@ -9,7 +9,7 @@ const Project = () => {
             title: "Online Compiler",
             description: "Built a dynamic compiler allowing users to write code, receive suggestions, and translate it into 5+ programming languages, achieving a 99.5% uptime",
             videoUrl: projectAssets.polyglotVideo, // Replace with actual video link
-            demoLink: "https://polyglot.shivamtech.xyz/",
+            demoLink: "https://polyglot.shivam-tech.in/",
             githubLink: "https://github.com/shivam-2002/polyglot-code-runner-frontend",
             techStack: ["React", "FastAPI", "Google Gemini", "AWS"],
         },
@@ -26,7 +26,7 @@ const Project = () => {
             description: "Built a real-time messaging platform using WebSocket, supporting concurrent users with zero downtime during testing and deployment.\n" +
                 "Integrated Google SMTP for secure email verification and enabled seamless Google account login/signup functionality.",
             videoUrl: projectAssets.chatVideo, // Replace with actual video link
-            demoLink: "https://chat.shivamtech.xyz/",
+            demoLink: "https://chat.shivam-tech.in/",
             githubLink: "https://github.com/shivam-2002/chat",
             techStack: ["React", "Fastapi", "SMTP", "AWS"],
         },
