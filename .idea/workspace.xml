@@ -5,52 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a8d260a-bf44-412d-aa61-0ad15f56083a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/about/profile_pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/DS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/IoT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/JS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/ML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/NPTEL_Programming In Java.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/RPA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/algorithm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/covid-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/cv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/icons8-email-25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/js,html,css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/kubernets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/math.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/mathematical_thinking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/ml1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/ml2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/ml3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/os.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/profile_pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/python.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/certification/python2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/experience/amazon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/experience/hummingbird.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/experience/jungleworks_logo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/experience/vatic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/experience/viewzen.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/project/chat-demo.mov" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/project/ecommerce.mov" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/project/polyglot-gif.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/project/polyglot-updated.mov" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Certification/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Certification/styled.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/styled.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Experience/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Experience/styled.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Project/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Project/styled.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProjectCard/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProjectCard/styled.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Skill/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Skill/styled.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/assets.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/declerations.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +31,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/shivamkumar/Practice/shivam-portfolio/src/assets",
+    "last_opened_file_path": "/Users/shivamkumar/Practice/shivam-portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -128,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1738894360761</updated>
       <workItem from="1738894362028" duration="5646000" />
-      <workItem from="1738900028069" duration="28804000" />
+      <workItem from="1738900028069" duration="31220000" />
+      <workItem from="1748493769200" duration="2606000" />
     </task>
     <servers />
   </component>

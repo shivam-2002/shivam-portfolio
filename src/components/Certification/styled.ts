@@ -1,42 +1,47 @@
 import styled from "styled-components";
 
 const StyledCertification = styled.div`
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+
+  .sub-heading {
+    color: #64736c;
+    font-size: 15px;
+    line-height: 1.7;
+    text-align: center;
+  }
+
+  .heading-1 {
+    margin: 0;
+  }
+
+  .slider {
+    max-width: 760px;
+    width: 100%;
+    margin-top: 14px;
+    overflow: hidden;
+  }
+
+  .image-container {
+    max-width: 100%;
+    height: 100%;
     display: flex;
-    flex-direction: column;
-    gap: 20px;
+    justify-content: center;
     align-items: center;
-    
-    .sub-heading {
-        font-size: 20px;
-        color: #929fb3;
-    }
+    overflow: hidden;
+  }
 
-    .heading-1 {
-        font-size: 48px;
-        font-weight: bold;
-        margin: 10px 0px 20px 0px;
-    }
-    
-    .slider {
-        max-width: 90vw;
-        width: 100%;
-    }
-
-    .image-container {
-        max-width: 80vw; /* Parent takes full width */
-        height: 100%; /* Adjust height as needed */
-        display: flex; /* Ensures it behaves responsively */
-        justify-content: center;
-        align-items: center;
-        overflow: hidden; /* Prevents overflow */
-    }
-    
-    .img {
-        max-width: 100vw;
-        height: auto;
-        object-fit: cover; /* Ensures the image fills the container */
-    }
-    
-    `
+  .img {
+    display: block;
+    width: 100%;
+    max-height: 470px;
+    object-fit: contain;
+    border: 1px solid #dce2dc;
+    border-radius: 6px;
+    background: #fff;
+  }
+`;
 
 export default StyledCertification;
